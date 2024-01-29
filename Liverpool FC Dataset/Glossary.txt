@@ -321,10 +321,11 @@ Minimum 30 minutes played per squad game to qualify as a leader
 Date -- Date listed is local to the match
 Time -- Time listed is local to the match venue
 Time is written in the 24-hour notation
-Your local time is in (·)
+Your local time is in (Â·)
 Round -- Round or Phase of Competition
 Day -- Day of week
 GF -- Goals For
 GA -- Goals Against
 Poss -- Possession
 Calculated as the percentage of passes attempted
+caon
