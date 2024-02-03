@@ -328,4 +328,3 @@ GF -- Goals For
 GA -- Goals Against
 Poss -- Possession
 Calculated as the percentage of passes attempted
-caon
